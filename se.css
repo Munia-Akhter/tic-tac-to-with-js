@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+
+}
+
+.box{
+
+    text-align:left;
+
+    width:auto;
+
+    height:auto;
+
+}
+
+h3 {
+    text-align: center;
+    font-family:  cursive;
+  font-size: 53px;
+}    
+
+canvas{
+    position:relative;
+
+}
